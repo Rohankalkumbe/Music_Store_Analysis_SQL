@@ -1,5 +1,9 @@
 # Music_Store_Analysis_SQL
 
+
+#LinkedIn Post Link :- https://www.linkedin.com/posts/rohan-kalkumbe_music-store-data-analysis-activity-7269049690736742400-M5S-?utm_source=share&utm_medium=member_desktop
+
+
                                           Music Store DataBase Analysis
 
 --------------------------------------------- Easy Query ------------------------------------------------------
