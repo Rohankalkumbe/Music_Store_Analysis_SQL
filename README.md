@@ -29,8 +29,6 @@ Q3) We want to find out the most popular music Genre for each country. We determ
 Q4) Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. 
 
 
-
-
 # Music Store DataBase Schema Diagram
 
 
