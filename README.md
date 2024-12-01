@@ -36,3 +36,13 @@ Q4) Write a query that determines the customer that has spent the most on music 
 
 ![Music_Schema_Dig](https://github.com/user-attachments/assets/16ee4704-cf00-46f9-b0aa-5b44c2c1ef58)
 
+
+
+# Advanced Chart of SQL Languages
+
+
+![WhatsApp Image 2024-12-01 at 7 03 09 PM](https://github.com/user-attachments/assets/da4cb01a-d9c7-4287-a6ce-a75a36aa236d)
+
+
+
+
